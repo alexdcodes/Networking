@@ -39,6 +39,20 @@ for d in allmondays(month):
     i += 1
     print(ListOfUsers[i] + " " + str(d) + " - " + str(d2))
 
+
+def read_schedule(x):
+    global email
+    username = getpass.getuser()
+    e = "C;\User." + username + "/Desktop/" + "call.csv"
+    csvfiler = open(e, 'r')
+    csvFileArray = []
+    for row in csv.reader(csvfiler):
+        csvFileArray.append(row)
+    person = csvFileArray[0][0]
+    if name in OnCallList:
+        email = OnCallList.get(name)
+        print(email)
+
 # def send_email():
 #    smtpserver.ehlo()
 #    smtpserver.starttls()
