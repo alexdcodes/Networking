@@ -13,3 +13,7 @@ Created when learning and teaching Automation.
 # UPS Scripts 
 UPS Shutdown Scripts Knowledge Transfer - for Uninterruptible Power Supplies
 NIC Cards, Health Check and initialize bootup process. 
+
+# Active Diretory Automation
+
+A small powershell script that was in the process of being completed until the assignment was halted. 
