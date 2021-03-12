@@ -18,7 +18,11 @@ NIC Cards, Health Check and initialize bootup process.
 
 A small powershell script that was in the process of being completed until the assignment was halted. 
 
-# NodeJS Twillio Automation for SIP Trunking Systems - open source
+# NodeJS Vendor Automation for SIP Trunking Systems - open source: Use as you please, passed on the knowledge transfer Use Case Diagram and Report. 
 
 Automate SIP Trunking Systems , deployment, automating sms messages, creating telephone queuing systems, Leverging Node JS and Certain vendors API
 Might branch this off into seperate Repo, as various code applies based on the flow. 
+
+- Need to add code for VR.  
+- Do analytics on when the line is used the most / add to the query intake systems and relays. 
+- Updated code coming soon :) Knowledge Passed  
