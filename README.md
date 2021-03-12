@@ -28,4 +28,5 @@ Might branch this off into seperate Repo, as various code applies based on the f
 
 - Need to add code for VR.  
 - Do analytics on when the line is used the most / add to the query intake systems and relays. 
-- Updated code coming soon :) Knowledge Passed  
+- Updated code coming soon, for the advanced VR. 
+- Wanted to do a quick upload in order to help, provide knowledge. 
