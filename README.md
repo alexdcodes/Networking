@@ -17,3 +17,8 @@ NIC Cards, Health Check and initialize bootup process.
 # Active Diretory Automation
 
 A small powershell script that was in the process of being completed until the assignment was halted. 
+
+# NodeJS Twillio Automation for SIP Trunking Systems - open source
+
+Automate SIP Trunking Systems , deployment, automating sms messages, creating telephone queuing systems, Leverging Node JS and Certain vendors API
+Might branch this off into seperate Repo, as various code applies based on the flow. 
