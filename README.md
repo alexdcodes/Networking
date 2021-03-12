@@ -2,7 +2,10 @@
 Networking Scripts 
 Created when learning and teaching Automation.
 
+# Accomplishments 
+
 - Spear Headed Python Education 
+- Taught Python Education by Providing Code
 - Passed on Knowledge Transfer of Python for Networking Ops Teams. 
 - Most Scripts Here are just done on a case by case basis, to be re-used based on what was required. 
 
