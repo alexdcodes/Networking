@@ -1,6 +1,7 @@
 # Networking Help and Education for NetOps
 Networking Scripts 
 Created when learning and teaching Automation.
+Lots of automation content coming soon. 
 
 # Accomplishments 
 
